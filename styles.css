@@ -1,0 +1,32 @@
+body {
+	font-family: georgia, sans-serif;
+	text-align: justify;
+}
+
+.interesting-fact {
+	font-style: italic;
+}
+
+.list-label {
+	font-weight: bold;
+}
+
+.no-dot {
+	list-style-type: none;
+	padding-left: 0;
+}
+
+.border {	
+	border: solid thin #c0c3c6; 
+}
+
+.space {	
+	margin-top: 2.5%;
+	padding: 0.5% 2%;
+}
+
+.structure {	
+	box-shadow: 8px 8px 10px;
+	padding: 1em;
+	width: 300px;	
+}
